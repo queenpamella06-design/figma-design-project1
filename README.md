@@ -1,1 +1,1 @@
-this is my ui design created by using figma
+this is my ui design created  using figma
